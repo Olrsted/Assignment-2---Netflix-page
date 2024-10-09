@@ -1,8 +1,21 @@
-.Header {
+.main {
     background-color: pink;
     position: relative;
 }
 
-    /* .sign {
-        right: 20px
-    } */
+.main {
+    background-color: pink;
+    position: relative;
+}
+
+.In {
+    position: absolute;
+    top: 5px;
+    right: 1px;
+}
+
+.Up {
+    position: absolute;
+    top: 5px;
+    right: 60px;
+}
