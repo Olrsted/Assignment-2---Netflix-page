@@ -1,0 +1,21 @@
+.main {
+    background-color: pink;
+    position: relative;
+}
+
+.main {
+    background-color: pink;
+    position: relative;
+}
+
+.In {
+    position: absolute;
+    top: 5px;
+    right: 1px;
+}
+
+.Up {
+    position: absolute;
+    top: 5px;
+    right: 60px;
+}
