@@ -1,9 +1,4 @@
-.main {
-    background-color: pink;
-    position: relative;
-}
-
-.main {
+.header {
     background-color: pink;
     position: relative;
 }
@@ -18,4 +13,8 @@
     position: absolute;
     top: 5px;
     right: 60px;
+}
+
+.main{
+
 }
