@@ -19,9 +19,25 @@
 
 }
 
+.frontPage{
+    background-image: url(59110.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-size-adjust: 20%;
+
+    padding: 540px;
+    border-width: 2px;
+    border-style: hidden;
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
 .movies img{
    width: 200px;
    height: 300px;
+   padding: 10px;
     
 }
 .movies img:hover{
