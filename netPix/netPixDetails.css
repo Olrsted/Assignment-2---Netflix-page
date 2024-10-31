@@ -22,9 +22,9 @@
     
 }
 
-.frontPage{
+.Hero{
     background-image: url(59110.png);
-    background-position: center;
+    background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
     text-size-adjust: 20%;
@@ -33,8 +33,13 @@
     border-width: 2px;
     border-style: hidden;
     margin: 10px;
-    text-align: center;
+    text-align: top;
+    text-align: left;
     font-weight: bold;
+}
+
+.watchB{
+    align-self: center;
 }
 
 .movies img{
